@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  GIT_USER: yangzhaojie
+  GIT_USER: ITrokie
   GIT_EMAIL: 690369365@qq.com
   DEPLOY_REPO: ITrokie/ITrokie.github.io
   DEPLOY_BRANCH: main
