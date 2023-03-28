@@ -9,7 +9,7 @@ env:
   GIT_USER: yangzhaojie
   GIT_EMAIL: yangzhaojie@bytedance.com
   DEPLOY_REPO: ITrokie/ITrokie.github.io
-  DEPLOY_BRANCH: master
+  DEPLOY_BRANCH: main
 
 jobs:
   build:
